@@ -1,0 +1,6 @@
+{
+  "swapCount": 5,
+  "transferCount": 8,
+  "cooldownMinutes": 45,
+  "randomizeOrder": true
+}
